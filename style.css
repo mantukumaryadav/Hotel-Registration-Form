@@ -1,0 +1,25 @@
+header{
+    background: url(Images/Hotel1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    display: flex;
+    width: 45rem;
+    height: 120px;
+    background: rgba(0,0,0,0.4);
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+.title h1{
+    text-align: center;
+}
